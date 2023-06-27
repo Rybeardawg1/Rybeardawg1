@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rybeardawg1(Ryan)
-- 👀 I’m interested in machine learning building apps/services for others.
+- 👀 I’m interested in machine learning building apps/services.
 - 🌱 I’m currently learning Qt and currently taking courses such as AI and Database Management.
 - ⚙️ I'm working on personal projects like an automated Etch-A-Sketch and traffic light simulations to build a portfolio.
 - 📫 How to reach me: rbarry3@students.stonehill.edu
