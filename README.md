@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Rybeardawg1(Ryan)
-- 👀 Interested in network security and machine learning
 - 🌱 Getting my MS CS at umass amherst rn
-- ⚙️ Currently having fun setting up my home server and ricing Arch Linux
 - 📫 rebarry@umass.edu
 
 <!---
